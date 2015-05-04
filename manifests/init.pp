@@ -47,7 +47,7 @@ class shorthosts (
       owner => 'root',
       group => 'root',
       mode => '644',
-      content => template('hosts/hosts.erb'),
+      content => template('shorthosts/hosts.erb'),
   }
 
   if $set_shortname == true {

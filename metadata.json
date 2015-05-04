@@ -1,6 +1,6 @@
 {
   "name": "opuk-shorthosts",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "opuk",
   "summary": "Compability with shortnames for RHEL",
   "license": "Apache 2.0",
